@@ -1,6 +1,5 @@
-### Hi there 👋
 
-用来复习各种基础知识😄
+### 用来复习各种基础知识😄
 
 <!--
 **ryuushihou/ryuushihou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
